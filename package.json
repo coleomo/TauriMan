@@ -5,10 +5,10 @@
     "type": "module",
     "scripts": {
         "tauri": "tauri",
-        "tauri dev": "tauri dev",
-        "tauri build": "tauri build",
-        "tauri debug": "tauri build --debug",
-        "icon": "tauri icon"
+        "tauri:dev": "tauri dev",
+        "tauri:build": "tauri build",
+        "tauri:debug": "tauri build --debug",
+        "tauri:icon": "tauri icon"
     },
     "devDependencies": {
         "@tauri-apps/cli": "^2",
